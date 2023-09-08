@@ -25,6 +25,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,discord,bots,electron,express,gcp,git,html,js,linux,lua,mysql,nginx,nodejs,ps,postman,react,unity,vscode," />
+    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,discord,bots,electron,express,gcp,git,html,js,linux,lua,mysql,nginx,nodejs,ps,postman,react,unity,vscode,babel,figma,vue," />
   </a>
 </p>
