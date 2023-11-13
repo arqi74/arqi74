@@ -27,4 +27,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,discord,bots,electron,express,gcp,git,html,js,linux,lua,mysql,nginx,nodejs,ps,postman,react,unity,vscode,babel,figma,vue," />
   </a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqi74&layout=compact)
 </p>
