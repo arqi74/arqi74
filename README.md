@@ -28,5 +28,5 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,discord,bots,electron,express,gcp,git,html,js,linux,lua,mysql,nginx,nodejs,ps,postman,react,unity,vscode,babel,figma,vue," />
   </a>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqi74&locale=pl)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqi74&layout=donut-vertical&locale=pl) 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqi74&locale=pl&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqi74&layout=donut&locale=pl) 
 </p>
