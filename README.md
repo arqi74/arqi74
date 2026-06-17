@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate frontend and backend developer from Poland</h3>
+<h3 align="center">A passionate full-stack web developer from Poland</h3>
 
-- 🔭 I’m currently working on **Cool Projects**
-
-- 🌱 I’m currently learning **Mobile App Stuff**
-
-- 👨‍💻 All of my projects are available at [https://wroclavdynamics.github.io](https://wroclavdynamics.github.io)
-
+- 🔭 I’m currently working on **Goverment Web Pages**
+- 🌱 I’m currently learning **Angular*
 - 💬 Ask me about **Express MongoDB or React Stuff**
-
 - 📫 How to reach me **via Discord or Email**
-
-- 📄 Know about my experiences [https://wroclavdynamics.github.io](https://wroclavdynamics.github.io)
-
-- ⚡ Fun fact **I love coffee and cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,discord,bots,electron,express,gcp,git,html,js,linux,lua,mysql,nginx,nodejs,ps,postman,react,unity,vscode,babel,figma,vue," />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,bootstrap,,mysql,mongodb,express,html,css,js,git,bots,discordjs" />
   </a>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqi74&locale=pl&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqi74&layout=donut&locale=pl) 
