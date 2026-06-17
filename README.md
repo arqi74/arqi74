@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,bootstrap,,mysql,mongodb,express,html,css,js,git,bots,discordjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,angular,bootstrap,vue,mysql,mongodb,express,html,css,js,git,bots,discordjs" />
   </a>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqi74&locale=pl&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqi74&layout=donut&locale=pl) 
